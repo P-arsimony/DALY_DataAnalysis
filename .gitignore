@@ -1,2 +1,6 @@
-"# Archivos grandes de datos" 
+"# Archivos grandes de datos"
+".xsl"
 "data_raw/" 
+"*.xlsx" 
+"*.zip" 
+"*.csv" 
