@@ -1,7 +1,7 @@
 "# Archivos grandes de datos"
-".xsl"
-"data_raw/" 
-"*.xlsx" 
-"*.zip" 
-"*.csv"
-"*.pdf" 
+.xsl
+data_raw/ 
+*.xlsx
+*.zip 
+*.csv
+*.pdf 
