@@ -1,9 +1,12 @@
-"# Archivos grandes de datos"
 .xsl
 data_raw/
 data_clean/
+docs/
 *.xlsx
 *.zip 
 *.csv
 *.pdf 
 *.pkl
+*.joblib
+*.pptx
+*.docx
